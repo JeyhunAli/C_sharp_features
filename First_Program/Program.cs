@@ -80,6 +80,7 @@ namespace First_Program
 
 
             Console.WriteLine("Hello World!");
+            Console.WriteLine("solved git repo issues");
         }
     }
 }
