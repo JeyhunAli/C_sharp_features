@@ -14,8 +14,15 @@ namespace First_Program
 
             const int a = 40;
             const int b = 50;
+             const String name = "jeyhun";
 
+            Console.WriteLine(name);
+
+
+       
             Console.WriteLine(a + b + " constant value");
         }
     }
 }
+
+
