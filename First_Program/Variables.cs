@@ -1,11 +1,10 @@
 ﻿using System;
-namespace First_Program { 
-
-    public class Variables {
-
-        public static void datatypes () {
-
-
+namespace First_Program
+{
+    public class variables
+    {
+        public static void datatypes()
+        {
             int x = 10;
             int age = 33;
             double height = 5.7;
@@ -32,17 +31,6 @@ namespace First_Program {
 
             Console.WriteLine(sign + "" + name);
 
-           
-
-
-
-
-
-
-
-
-
-          
         }
     }
 }
